@@ -1,0 +1,24 @@
+#trasnformer en json avant
+
+{
+  "openrouter": {
+    "api_key": "your api key here",
+    "model": "your",
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "email": "your email here",
+    "password": "your app password here",
+    "from_name": "Your Name"
+  },
+  "serper": {
+    "api_key": "your serper api key here",
+    "location": "Morocco",
+    "gl": "ma"
+  },
+
+  "portfolio_url": "your portfolio url here",
+  "schedule_time": "08:00"
+}
